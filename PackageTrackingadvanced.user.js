@@ -4,6 +4,8 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
+// @downloadURL  https://github.com/KhalilAwada/ShopAndShipTamperMonkeyScript/raw/main/PackageTrackingadvanced.user.js
+// @@updateURL   https://github.com/KhalilAwada/ShopAndShipTamperMonkeyScript/raw/main/PackageTrackingadvanced.user.js
 // @match        https://www.shopandship.com/*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @require      https://gist.github.com/raw/2625891/waitForKeyElements.js
